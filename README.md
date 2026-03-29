@@ -1,2 +1,2 @@
-# liadmini.github.com
+# liadmini.github.io
 个人网页
